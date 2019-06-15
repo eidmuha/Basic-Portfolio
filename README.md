@@ -17,10 +17,10 @@ The following are the main elements used to build the portfolio's structure.
 ## CSS
 
 CSS is used to beautify and give aesthetics to the pages of portfolio. The main CSS properties used are:
-```float``` to position or wrap text arround and element.
-```::after ``` to add pseudo-element '|' between the menus
-```position``` to position the footer element with respect to the page itself.
-``margin, padding``` to add spaces arround borders
+* ```float``` to position or wrap text arround and element.
+* ```::after ``` to add pseudo-element '|' between the menus
+* ```position``` to position the footer element with respect to the page itself.
+* ```margin, padding``` to add spaces arround borders
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
