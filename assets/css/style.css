@@ -75,6 +75,7 @@ section{
     border-width: 1px;
     border-color: #cccccc;
     line-height: 30px;
+    overflow: auto;
 }
 
 #aboutme{
@@ -106,3 +107,28 @@ footer{
 }
 
 
+div.gallery {
+    margin: 20px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 320px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: 230px ;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: #4aaaa5;
+    margin: 0px 0px 5px 0px;
+    color: white;
+  }
